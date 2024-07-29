@@ -1,0 +1,14 @@
+[users]
+user_name = [ "wrinkle", "payphone121", "哇哇哇", "斯普瑞文", "海", "莫莫柴", "NotANumber",]
+
+[date]
+ld1 = 2024-07-30
+lt1 = "01:30:01"
+
+[id]
+record_id = 121725
+
+[excel_file]
+excel_file_path = "./result.xlsx"
+result_id = 45
+
